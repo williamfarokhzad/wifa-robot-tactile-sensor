@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460">
+<rect width="760" height="460" fill="#10252d"/>
+<g font-family="DejaVu Sans,sans-serif">
+<text x="36" y="48" font-size="32" fill="#f1fbfa" font-weight="700">One patch, unequal loads</text>
+<text x="36" y="78" font-size="22" fill="#a8d7d3">The 2 N cell pulls the estimate to the right</text>
+<text x="275" y="101" text-anchor="middle" fill="#bfdfdf" font-size="21">0</text>
+<text x="375" y="101" text-anchor="middle" fill="#bfdfdf" font-size="21">5</text>
+<text x="475" y="101" text-anchor="middle" fill="#bfdfdf" font-size="21">10</text>
+<text x="207" y="154" text-anchor="end" fill="#bfdfdf" font-size="21">0</text>
+<rect x="235" y="107" width="80" height="76" rx="10" fill="#1c3a44" stroke="#3c6970"/>
+<text x="275" y="174" text-anchor="middle" fill="#ffffff" font-size="22">0 N</text>
+<rect x="335" y="107" width="80" height="76" rx="10" fill="#1c3a44" stroke="#3c6970"/>
+<text x="375" y="174" text-anchor="middle" fill="#ffffff" font-size="22">0 N</text>
+<rect x="435" y="107" width="80" height="76" rx="10" fill="#1c3a44" stroke="#3c6970"/>
+<text x="475" y="174" text-anchor="middle" fill="#ffffff" font-size="22">0 N</text>
+<text x="207" y="254" text-anchor="end" fill="#bfdfdf" font-size="21">5</text>
+<rect x="235" y="207" width="80" height="76" rx="10" fill="#1c3a44" stroke="#3c6970"/>
+<text x="275" y="274" text-anchor="middle" fill="#ffffff" font-size="22">0 N</text>
+<rect x="335" y="207" width="80" height="76" rx="10" fill="#257c77" stroke="#3c6970"/>
+<text x="375" y="274" text-anchor="middle" fill="#ffffff" font-size="22">1 N</text>
+<rect x="435" y="207" width="80" height="76" rx="10" fill="#257c77" stroke="#3c6970"/>
+<text x="475" y="274" text-anchor="middle" fill="#ffffff" font-size="22">2 N</text>
+<text x="207" y="354" text-anchor="end" fill="#bfdfdf" font-size="21">10</text>
+<rect x="235" y="307" width="80" height="76" rx="10" fill="#1c3a44" stroke="#3c6970"/>
+<text x="275" y="374" text-anchor="middle" fill="#ffffff" font-size="22">0 N</text>
+<rect x="335" y="307" width="80" height="76" rx="10" fill="#1c3a44" stroke="#3c6970"/>
+<text x="375" y="374" text-anchor="middle" fill="#ffffff" font-size="22">0 N</text>
+<rect x="435" y="307" width="80" height="76" rx="10" fill="#1c3a44" stroke="#3c6970"/>
+<text x="475" y="374" text-anchor="middle" fill="#ffffff" font-size="22">0 N</text>
+<text x="558" y="118" fill="#bfdfdf" font-size="22">x (mm)</text>
+<text x="84" y="254" fill="#bfdfdf" font-size="22">y (mm)</text>
+<circle cx="441.67" cy="245.00" r="10" fill="#ffcb73" stroke="#10252d" stroke-width="3"/>
+<circle cx="46" cy="420" r="9" fill="#ffcb73"/>
+<text x="66" y="427" fill="#f1fbfa" font-size="22">Load center: (8.33, 5.00) mm</text>
+</g></svg>
